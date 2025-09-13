@@ -1,0 +1,19 @@
+{
+  "sites": {
+    "www.youtube.com": [
+      {
+        "id": "youtube-ad-pedantic",
+        "name": "Bloqueador de Anúncios (teste)",
+        "description": "Remove os anúncios do YouTube",
+        "script_url": "https://raw.githubusercontent.com/henryykkkk/userscripts-manager/scripts/youtube-ad-pedantic.user.js",
+        "inputs": [
+          {
+            "key": "disabled",
+            "type": "switch",
+            "label": ":)"
+          }
+        ]
+      }
+    ]
+  }
+}
